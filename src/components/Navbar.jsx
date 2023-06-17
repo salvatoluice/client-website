@@ -13,7 +13,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <div className="flex-shrink-0">
-              <span className="text-white font-bold italic text-lg">MTI</span>
+              <span className="text-white font-bold italic text-lg">HIC</span>
             </div>
           </div>
           <div className="hidden md:block">
@@ -35,6 +35,12 @@ const Navbar = () => {
                 className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
               >
                 Services
+              </a>
+              <a
+                href="#"
+                className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+              >
+                Blog
               </a>
               <a
                 href="#"

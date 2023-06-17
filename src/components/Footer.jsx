@@ -6,7 +6,7 @@ const Footer = () => {
   <div class="container mx-auto px-4">
     <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
       <div class="col-span-2">
-        <h3 class="text-2xl font-bold mb-4 italic">MyTravelInternantional</h3>
+        <h3 class="text-2xl font-bold mb-4 italic">High-Flyer Internantional Consultancy</h3>
         <p class="mb-4 w-[330px]">We stay at the forefront of education, anticipating trends and adapting our offerings to ensure exceptional experiences. </p>
         <ul class="space-y-2">
           <li><a href="#" class="text-gray-300 hover:text-gray-100">Home</a></li>
