@@ -5,7 +5,7 @@ const About = () => {
     <div id='about' class="bg-gray-100 py-10">
       <div class="container mx-auto px-4 gap-2">
         <div class="flex flex-col md:flex-row">
-          <div class="md:w-1/2 md:pr-8">
+          <div class="md:w-1/2 md:pr-8 mb-2">
             <h1 class="mb-4 text-blue-500">Who We Are</h1>
             <p class="mb-4 text-2xl font-bold">we are a passionate and innovative education and training institution dedicated to empowering individuals and transforming lives. Join us on a transformative journey to unlock your potential and shape a brighter future.</p>
             <div class="flex space-x-4">
@@ -22,7 +22,7 @@ const About = () => {
               <p>Our mission is to provide high-quality education and training programs that empower individuals to achieve their goals and unlock their full potential. We strive to offer comprehensive and personalized learning experiences that equip our students with the necessary skills and knowledge to excel in their chosen fields.</p>
             </div>
             
-            <div class="bg-white rounded-lg shadow-md p-4">
+            <div class="bg-white rounded-lg shadow-md mb-2 p-4">
               <h2 class="text-xl font-bold mb-2">
                 <i class="fas fa-eye mr-2 text-blue-500"></i> Our Vision
               </h2>
