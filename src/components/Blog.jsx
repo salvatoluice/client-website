@@ -2,7 +2,7 @@ import React from 'react'
 
 const Blog = () => {
   return (
-<section class="px-4 bg-gray-100 py-8">
+<section class="px-4 bg-gray-100 py-8" id='blog'>
   <h2 class="text-3xl font-bold mb-6">Latest Blogs</h2>
   <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
     <div class="bg-white shadow-md rounded-lg p-6">

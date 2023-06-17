@@ -2,7 +2,7 @@ import React from 'react'
 
 const Works = () => {
   return (
-    <div class="bg-gray-100 py-10">
+    <div class="bg-gray-100 py-10" id='work'>
     <div class="container mx-auto px-4">
       <h2 class="text-3xl font-bold mb-2 text-center">Our Successful Works</h2>
       <p className='text-center mb-4'>Below all our achievements so far. Proud of what we have done</p>

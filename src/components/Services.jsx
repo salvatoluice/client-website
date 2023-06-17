@@ -2,7 +2,7 @@ import React from 'react'
 
 const Services = () => {
   return (
-<div class="bg-gray-100 py-10">
+<div class="bg-gray-100 py-10" id='services'>
   <div class="container mx-auto px-4">
     <h2 class="text-3xl font-bold mb-4 text-center">Our Services</h2>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">

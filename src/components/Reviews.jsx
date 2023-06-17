@@ -2,7 +2,7 @@ import React from 'react'
 
 const Reviews = () => {
   return (
-<div class="bg-gray-100 py-10">
+<div class="bg-gray-100 py-10" id='reviews'>
   <div class="container mx-auto px-4">
     <h2 class="text-3xl font-bold mb-4 text-center">Customer Reviews</h2>
     <div class="flex flex-col md:flex-row space-y-6 md:space-y-0 md:space-x-6">
