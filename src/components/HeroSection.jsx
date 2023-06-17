@@ -15,8 +15,8 @@ const HeroSection = () => {
     <div class="absolute inset-0 bg-black opacity-50"></div>
   </div>
   <div class="relative container mx-auto my-auto px-4 py-24">
-    <h1 class="text-6xl font-bold text-white mb-8">Empowering Growth and Success Through Comprehensive Education and Training Solutions</h1>
-    <p class="text-lg text-white mb-8">Unlock Your Potential with Comprehensive Education and Training Solutions. From language proficiency coaching and caregiving training to school and VISA applications, we provide personalized support and expert guidance to help you achieve your goals. With our dedicated team and high-quality programs, we empower individuals to excel in their endeavors and turn their dreams into reality. Explore our services today and embark on a journey of growth and success.</p>
+    <h1 class="text-6xl font-bold text-white mb-8">Empowering Growth and Success.</h1>
+    <p class="text-lg text-white mb-8">Unlock Your Potential with Comprehensive Education and Training Solutions. With our dedicated team and high-quality programs, we empower individuals to excel in their endeavors and turn their dreams into reality. Explore our services today and embark on a journey of growth and success.</p>
     <div class="flex items-center space-x-4 mb-8">
       <a href="#" class="text-white hover:text-gray-200 transition duration-300">< FaFacebookF /></a>
       <a href="#" class="text-white hover:text-gray-200 transition duration-300"><AiOutlineTwitter /></a>
