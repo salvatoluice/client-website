@@ -6,8 +6,8 @@ const Footer = () => {
   <div class="container mx-auto px-4">
     <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
       <div class="col-span-2">
-        <h3 class="text-2xl font-bold mb-4">Company Name</h3>
-        <p class="mb-4 w-[250px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium blandit ligula nec cursus.</p>
+        <h3 class="text-2xl font-bold mb-4 italic">MyTravelInternantional</h3>
+        <p class="mb-4 w-[250px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
         <ul class="space-y-2">
           <li><a href="#" class="text-gray-300 hover:text-gray-100">Home</a></li>
           <li><a href="#" class="text-gray-300 hover:text-gray-100">About</a></li>
@@ -24,7 +24,7 @@ const Footer = () => {
         <p class="mb-2"><i class="fas fa-clock mr-2"></i>Mon-Fri: 9:00 AM - 5:00 PM</p>
       </div>
       <div>
-        <h3 class="text-2xl font-bold mb-4">Follow Us</h3>
+        <h3 class="text-2xl font-bold mb-4">Follow Us On</h3>
         <div class="flex space-x-4">
           <a href="#" class="text-gray-300 hover:text-gray-100"><i class="fab fa-facebook-f"></i></a>
           <a href="#" class="text-gray-300 hover:text-gray-100"><i class="fab fa-twitter"></i></a>
