@@ -4,10 +4,9 @@ import { FaFacebookF } from 'react-icons/fa'
 import { AiOutlineInstagram, AiOutlineTwitter } from 'react-icons/ai'
 
 const HeroSection = () => {
-  const imgUrl = 'https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHRyYXZlbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60';
 
   return (
-  <section class="relative h-[80vh]">
+  <section class="relative h-[90vh]">
   <div class="absolute h-[80vh] inset-0">
   <video class="w-full h-full object-cover" autoplay='autoplay' muted loop='loop'>
       <source src={video} type="video/mp4" />
