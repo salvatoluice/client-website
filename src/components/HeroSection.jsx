@@ -16,7 +16,7 @@ const HeroSection = () => {
   </div>
   <div class="relative container mx-auto my-auto px-4 py-24">
     <h1 class="text-6xl font-bold text-white mb-8">Empowering Growth and Success.</h1>
-    <p class="text-lg text-white mb-8">Unlock Your Potential with Comprehensive Education and Training Solutions. With our dedicated team and high-quality programs, we empower individuals to excel in their endeavors and turn their dreams into reality. Explore our services today and embark on a journey of growth and success.</p>
+    <p class="text-lg text-white mb-8">Unlock Your Potential with Comprehensive Education and Training Solutions. With our dedicated team and high-quality programs, we empower individuals to excel in their endeavors and turn their dreams into reality.</p>
     <div class="flex items-center space-x-4 mb-8">
       <a href="#" class="text-white hover:text-gray-200 transition duration-300">< FaFacebookF /></a>
       <a href="#" class="text-white hover:text-gray-200 transition duration-300"><AiOutlineTwitter /></a>
