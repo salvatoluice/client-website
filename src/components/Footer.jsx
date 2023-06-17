@@ -7,7 +7,7 @@ const Footer = () => {
     <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
       <div class="col-span-2">
         <h3 class="text-2xl font-bold mb-4 italic">MyTravelInternantional</h3>
-        <p class="mb-4 w-[250px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+        <p class="mb-4 w-[330px]">We stay at the forefront of education, anticipating trends and adapting our offerings to ensure exceptional experiences. </p>
         <ul class="space-y-2">
           <li><a href="#" class="text-gray-300 hover:text-gray-100">Home</a></li>
           <li><a href="#" class="text-gray-300 hover:text-gray-100">About</a></li>
@@ -18,10 +18,10 @@ const Footer = () => {
       </div>
       <div>
         <h3 class="text-2xl font-bold mb-4">Contact</h3>
-        <p class="mb-2"><i class="fas fa-map-marker-alt mr-2"></i>123 Main Street</p>
-        <p class="mb-2"><i class="fas fa-envelope mr-2"></i>Email: info@example.com</p>
-        <p class="mb-2"><i class="fas fa-phone mr-2"></i>Phone: (123) 456-7890</p>
-        <p class="mb-2"><i class="fas fa-clock mr-2"></i>Mon-Fri: 9:00 AM - 5:00 PM</p>
+        <p class="mb-2"><i class="fas fa-map-marker-alt mr-2"></i>Khetias Building, 5th floor</p>
+        <p class="mb-2"><i class="fas fa-envelope mr-2"></i> info@example.com</p>
+        <p class="mb-2"><i class="fas fa-phone mr-2"></i>+254 700 000 000</p>
+        <p class="mb-2"><i class="fas fa-clock mr-2"></i>Mon-Fri: 8:00 AM - 6:00 PM</p>
       </div>
       <div>
         <h3 class="text-2xl font-bold mb-4">Follow Us On</h3>
