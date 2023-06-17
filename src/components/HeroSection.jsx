@@ -7,7 +7,7 @@ const HeroSection = () => {
 
   return (
   <section class="relative h-[90vh]">
-  <div class="absolute h-[80vh] inset-0">
+  <div class="absolute h-[90vh] inset-0">
   <video class="w-full h-full object-cover" autoplay='autoplay' muted loop='loop'>
       <source src={video} type="video/mp4" />
   </video>
