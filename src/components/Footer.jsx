@@ -28,7 +28,7 @@ const Footer = () => {
         <div class="flex space-x-4">
           <a target='_blank' href="https://facebook.com/" class="text-gray-300 hover:text-gray-100"><i class="fab fa-facebook-f"></i></a>
           <a target='_blank' href="https://twitter.com/" class="text-gray-300 hover:text-gray-100"><i class="fab fa-twitter"></i></a>
-          <a target='_blank' href="https://instagram.co/" class="text-gray-300 hover:text-gray-100"><i class="fab fa-instagram"></i></a>
+          <a target='_blank' href="https://instagram.com/" class="text-gray-300 hover:text-gray-100"><i class="fab fa-instagram"></i></a>
           <a target='_blank' href="https://linkedin.com/in/" class="text-gray-300 hover:text-gray-100"><i class="fab fa-linkedin-in"></i></a>
         </div>
       </div>
